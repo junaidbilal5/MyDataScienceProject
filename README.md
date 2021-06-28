@@ -1,2 +1,3 @@
 # MyDataScienceProject
-This repository consist of many project that i completed and in each project we cover any one of the life cycle of data science project
+This repository which consist of many projects that i completed.
+In each project i applied the life cycle of data science.
